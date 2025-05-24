@@ -7,3 +7,7 @@
 测试github绝对路径：![](https://github.com/RingleaderWang/unity-learning-sharing/blob/main/image/obsidian.png)
 测试github绝对路径+jsdelivr cdn加速：![](https://cdn.jsdelivr.net/gh/RingleaderWang/unity-learning-sharing/blob/main/image/obsidian.png)
 测试根目录下相对路径图片：![test图片](test2.png)
+
+
+测试html图片格式：
+<img src="./test2.png" alt="描述" width="300" />
